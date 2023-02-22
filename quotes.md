@@ -1,5 +1,5 @@
 ---
-title: Quotes
+title: Prasadam Quotes
 layout: home
 
 ---
@@ -15,4 +15,15 @@ layout: home
 
 ##### Letter to: Mahamsa Swami
 > *"The best thing is that the villagers should come to our land, chant Hare Krsna and take prasadam there. When there is prasadam distribution and kirtan it means there is already a temple."*
+
+***
+
+##### Letter to: Kirtiraja
+> *"Chant Hare Krishna, induce others to chant, and distribute prasadam. Temple or no temple, you simply chant and give prasadam and it will act."*
+
+***
+
+##### Letter to: Satsvarupa
+> *"Let them chant Hare Krsna and distribute Prasadam, and things will come very quickly."*
+
 ***
