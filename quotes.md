@@ -1,5 +1,6 @@
 ---
 title: Quotes
+layout: home
 
 ---
 Letter to: Brisakapi
