@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_exclude: true
 ---
 
 A resource site for things that are (hopefully) useful and not-too-defect-encouraging for Krishna Consciousness. Contact roblmkr@gmail.com for any questions/concerns/inputs/feedbacks!
