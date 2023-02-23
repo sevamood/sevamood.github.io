@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-A resource site for things that are (hopefully) useful, ethical, and not-too-defect-encouraging for Krishna Consciousness. Contact roblmkr@gmail.com for any questions/concerns/inputs/feedbacks!
+A resource site for things that are (hopefully) useful and not-too-defect-encouraging for Krishna Consciousness. Contact roblmkr@gmail.com for any questions/concerns/inputs/feedbacks!
 
 ----
 
