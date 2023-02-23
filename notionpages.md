@@ -6,7 +6,7 @@ layout: home
 ---
 These are links to pages in the Notion repository "associated" with this site.
 
-> Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It offers organizational tools including task management, project tracking, to-do lists, bookmarking, and more.
+> Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It offers organizational tools including task management, project tracking, to-do lists, bookmarking, and more.[^1]
 
 Using Notion allows extremely easy and robust page editing/formatting/proof/etc, and links can be shared for collaborative editing to anyone with a web browser. There are similar services to Notion that may be better suited to fulfilling its intended function on this site, but for now it is the default option.
  
@@ -25,6 +25,8 @@ Anyone with access to edit a Notion page linked below (which for now are organiz
 ##### [Linguistics]
 
 ----
+
+[^1]: https://en.wikipedia.org/wiki/Notion_(productivity_software)
 
 [Morning Program]: https://sevamood.notion.site/Morning-Program-86c917c0b14e42c580f5497ebcfc53fd
 [Linguistics]: https://sevamood.notion.site/Linguistics-e44e42f0bc7d47879addb1a984ce90c6
