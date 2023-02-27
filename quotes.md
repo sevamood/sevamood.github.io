@@ -8,7 +8,7 @@ layout: home
 
 ***
 
-##### Letter to: Dr. Y. G. Naik | &#x2610;
+##### Letter to: Dr. Y. G. Naik | &#x2611;
 > *"So we are trying to follow by distributing prasadam very liberally, and we invite everyone without any discrimination. Everywhere we have got temples we distribute prasadam especially to the poorer men."*
 
 ***
